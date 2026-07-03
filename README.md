@@ -4,7 +4,7 @@
   
   **Generate hundreds of QR codes from ID card details in seconds** ⚡
   
-  *Stop manually creating QR codes one by one. Let automation handle the repetitive work.*
+  *Stop manually creating QR codes one by one. Let automation handle the repetitive work.Turn any data into qrcode*
 
 </div>
 
