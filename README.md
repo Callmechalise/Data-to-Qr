@@ -1,5 +1,3 @@
-done also sample data edited as you said # QR Card Generator
-
 > **Automated QR Code Generation for ID Cards** · [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/Callmechalise/qr-card-generator/pulls) [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)](https://github.com/Callmechalise/qr-card-generator)
 
 <div align="center">
